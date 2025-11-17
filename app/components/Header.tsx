@@ -1,7 +1,8 @@
 import Link from "next/link";
 
 export default function Header() {
-  //          <Link href="/comp1">Comp1</Link>
+  // <Link href="/comp1">Comp1</Link>
+  // app/comp1/page.tsx
   return (
     <div className="bg-gray-800 text-white p-4">
       <nav className="container mx-auto flex justify-between">
